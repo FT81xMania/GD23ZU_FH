@@ -146,10 +146,12 @@ See wiki on github for [options, hardware and more](https://github.com/FT81xMani
 
 # YouTube DEMO playback videos on Teensy and STM32Fx with sound !!!
 
-April 21 2020; https://www.youtube.com/watch?v=hbExhNN6Xpc&feature=youtu.be
+April 21 2020; https://youtu.be/hbExhNN6Xpc
 
 https://www.youtube.com/watch?v=3K4Qc5GNrAg&t=6s
+
 https://www.youtube.com/watch?v=l_VrVL0g6X0
+
 https://www.youtube.com/watch?v=XSeefeQb20A&t=6s
 
 
