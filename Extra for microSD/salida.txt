@@ -1,0 +1,8 @@
+gd2asset -f tmenu.gd2 -o tmenu.h av1.jpg av2.jpg FT8XX.png STM32.png lightcalamar.jpg
+Assets report
+-------------
+Header file:    tmenu.h
+GD2 RAM used:   891200
+Output file:    tmenu.gd2
+File size:      122543
+
