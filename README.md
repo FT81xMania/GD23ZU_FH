@@ -54,11 +54,11 @@ Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/co
 
 # Testing resolution videos playback
 1.June 8, 2018 increase in 790 x 470 pixels videos work very fine.
-
 2.June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
 
 # Software requirement
 Donmload amd [use the Core STM32_Core Oficial by STM32Duino]((https://github.com/stm32duino/Arduino_Core_STM32)
+
 # Installation
 ## Linux
 1. Add boards STM32duino via IDE Arduino
@@ -146,10 +146,10 @@ See wiki on github for [options, hardware and more](https://github.com/FT81xMani
 
 # YouTube DEMO playback videos on Teensy and STM32Fx with sound !!!
 
+April 21 2020; 
+
 https://www.youtube.com/watch?v=3K4Qc5GNrAg&t=6s
-
 https://www.youtube.com/watch?v=l_VrVL0g6X0
-
 https://www.youtube.com/watch?v=XSeefeQb20A&t=6s
 
 
