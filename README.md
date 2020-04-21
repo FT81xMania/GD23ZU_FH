@@ -14,7 +14,7 @@ Two friends, in Mexico and another in Spain, the water or the puddle does not sc
 Last month of May, a member of the Team, we left. We move on.
 Without any interest, we publish this library altruistically.
 
-# June 7, 2018 Release initial.
+# April 21, 2020 Release initial.
 
 1. Library based on [James Bowman](https://github.com/jamesbowman/gd2-lib)
 2. Library based on [lightcalamar GD23STM32_F103x](https://github.com/lightcalamar/GD23STM32_F103x) > programmed and modified by [@TFTLCDCyg](https://ft81xmania.com/comunidad/Usuario-tftlcdcyg)
@@ -36,11 +36,12 @@ Library with function special **playback videos** on MCU's ***STM32F103x***, ***
 * STM32F407x (BLACK or M4-DEMO)
 * STM32F429x (Discovery board)
 * Nucleo STM32F767x
+* Nucleo STM32H743ZI
 * Consult the documentation different boards to pins SPI1 and SPI2 [Follow this board's Wiki](https://github.com/lightcalamar/GD23Z/wiki/STM32Fx-configuration) 
     
 # Teensy support 
     Models Boards;  (This boards SUPPORT playback video (see Wiki)
-* Teensy 3.5 and Teensy 3.6
+* Teensy 3.5, Teensy 3.6 and Teensy 4.0
 
 # ESP32 support
 It is **not yet possible to play videos**. To be working very hard and we hope to give the big surprise with this MCU.
@@ -57,20 +58,13 @@ Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/co
 2.June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
 
 # Software requirement
-Donwload and [use the Core STM32GENERIC by danieleff](https://github.com/danieleff/STM32GENERIC)
-
+Donmload amd [use the Core STM32_Core Oficial by STM32Duino]((https://github.com/stm32duino/Arduino_Core_STM32)
 # Installation
 ## Linux
-1. Unzip library copy and paste in /home/your_user/arduino-1.8.5/libraries/
-2. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
-3. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
-   Recommended use GCC **last version**, change compiler.path in [platform.txt] (Linux not have problems with lower systems in programming, example win ...)
+1. Add boards STM32duino via IDE Arduino
    
 ## Windows
-1. Unzip library copy and paste path of IDE arduino-1.8.5/libraries/
-2. Install Arduino Zero or Arduino Sam from the board manager for the arm-none-eabi-gcc compiler
-3. Download the [GNU ARM Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads).
-   Recommended use GCC ver 5.4.1-2016q2,Change compiler.path in [platform.txt](https://github.com/danieleff/STM32GENERIC/blob/master/STM32/platform.txt#L21) to point to that you downloaded.   
+2. Same Linux instalation 
    
 # Adjust the library according to your board and screen
 See wiki. [Information](https://github.com/FT81xMania/GD23ZU/wiki)
@@ -86,6 +80,7 @@ See wiki. [Information](https://github.com/FT81xMania/GD23ZU/wiki)
 ---
 
 # Where to buy FT8xx screens?
+* [Matrix Orbital] [https://www.matrixorbital.com]
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
  Good prices and good design with frame included. Only produce 5 and 4.3 inches, models FT800, FT810 and FT11.
