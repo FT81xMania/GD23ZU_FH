@@ -1,12 +1,12 @@
-![FT81xMania](logo.png?raw=true "GD23ZU")
+![FT81xMania](logo.png?raw=true "GD23ZU_FH")
 
 
-![FT81xMania](logo2.gif?raw=true "GD23ZU")
+![FT81xMania](logo2.gif?raw=true "GD23ZU_FH")
 
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
-# GD23ZU Library
-Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 based on library Gameduino 3 Playback videos **.avi** with sound, from a microSD reader **for FTDI; FT810, FT811** and **FT813** screens.
+# GD23ZU_FH Library
+Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 AND 4.0 based on library Gameduino 3/3X Playback videos **.avi** with sound, from a microSD reader **for FTDI; FT810, FT811** and **FT813** screens anf **BT81x**
 
 # History
 We are an enthusiastic team of screens based on [FTDI chip](http://www.ftdichip.com/EVE.htm). We like programming and share our advances. We have reached this goal, our only interest is to give the opportunity to operate this library to multiple platforms of MCU's in the market. Wait for you to enjoy the codes, of our, your time.
@@ -80,7 +80,7 @@ See wiki. [Information](https://github.com/FT81xMania/GD23ZU/wiki)
 ---
 
 # Where to buy FT8xx screens?
-* [Matrix Orbital] [https://www.matrixorbital.com]
+* [Matrix Orbital](https://www.matrixorbital.com) EVE 2, 3 and 4 series.
 * [New Haven Display](http://www.newhavendisplay.com/advanced_search_result.html?y=0&x=0&keyword=eve2&search_in_description=1) Location in the USA, Boston, great finish quality.
 * [HotMCU](https://www.hotmcu.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ftdi)
  Good prices and good design with frame included. Only produce 5 and 4.3 inches, models FT800, FT810 and FT11.
