@@ -6,7 +6,7 @@
 # MexSpa Team contribution for [FT81xMania](https://ft81xmania.com/comunidad/)
 
 # GD23ZU_FH Library
-Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 AND 4.0 based on library Gameduino 3/3X Playback videos **.avi** with sound, from a microSD reader **for FTDI; FT810, FT811** and **FT813** screens anf **BT81x**
+Library for STM32F1x, STM32F4x, STM32F7x and Teensy 3.5/6 AND 4.0 based on library Gameduino 3/3X Playback videos **.avi** with sound, from a microSD reader **for FTDI; FT810, FT811** and **FT813** screens and **BT81x** series, **Teensy** 3.5/6 and 4.0
 
 # History
 We are an enthusiastic team of screens based on [FTDI chip](http://www.ftdichip.com/EVE.htm). We like programming and share our advances. We have reached this goal, our only interest is to give the opportunity to operate this library to multiple platforms of MCU's in the market. Wait for you to enjoy the codes, of our, your time.
