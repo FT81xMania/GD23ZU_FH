@@ -57,7 +57,7 @@ Today test 700x400 pixels, work very well. [Demo file](https://ft81xmania.com/co
 2.June 12, 2018 **maximum resolution of videos is 790 x 470 pixels**.
 
 # Software requirement
-Donmload amd [use the Core STM32_Core Oficial by STM32Duino](https://github.com/stm32duino/Arduino_Core_STM32)
+Donmload and install [the Core STM32_Core Oficial by STM32Duino](https://github.com/stm32duino/Arduino_Core_STM32)
 
 # Installation
 ## Linux
